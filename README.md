@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg](https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg)"
+  <img  src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg]"
        alt="snake" /></a>
 </div>
 
